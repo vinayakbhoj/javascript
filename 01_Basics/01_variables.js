@@ -1,5 +1,9 @@
 const accountId = 12343
 let accountEmail = "vinayak@gmail.com"
+
+// Prefer not to use var 
+// bcuz of issue in block scope and functional scope
+
 var accountPass = "23442"
 accountCity = "Jaipur"
 
